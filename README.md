@@ -31,13 +31,13 @@ Olá, seja muito bem vindo ao meu perfil no Github. Aqui registro todo o meu pro
 ### ★ 𓂃 𓍢 :page_with_curl: 。 status.  ♡
 <div align="left">
   <a href="https://github.com/naelldev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naelldev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b090a&title_color=ba181b&icon_color=ba181b&text_color=f5f3f4"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naelldev&layout=compact&langs_count=7&hide_border=true&bg_color=0b090a&title_color=ba181b&icon_color=ba181b&text_color=f5f3f4"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naelldev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080606&title_color=9b404b&icon_color=9b404b&text_color=f5f3f4"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naelldev&layout=compact&langs_count=7&hide_border=true&bg_color=080606&title_color=9b404b&icon_color=9b404b&text_color=f5f3f4"/>
 </div>
   
 ### ★ 𓂃 𓍢 :pushpin: 。 pinneds.  ♡
 <div align="left">
   
-[![RepoCard](https://github-readme-stats.vercel.app/api/pin?username=naelldev&repo=oficina&hide_border=true&bg_color=0b090a&title_color=ba181b&icon_color=ba181b&text_color=f5f3f4)](https://github.com/naelldev/oficina)
+[![RepoCard](https://github-readme-stats.vercel.app/api/pin?username=naelldev&repo=oficina&hide_border=true&bg_color=080606&title_color=9b404b&icon_color=9b404b&text_color=f5f3f4)](https://github.com/naelldev/oficina)
   
 </div>
