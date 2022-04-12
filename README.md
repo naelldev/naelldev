@@ -3,9 +3,10 @@
 Olá, seja muito bem vindo ao meu perfil no Github. Aqui registro todo o meu progresso como desenvolvedor, commitando cada novo aprendizado e buscando contribuir constantemente com a comunidade.
 <div align="left">
   
-[![email](img/email.png)](mailto:naelldev@gmail.com)
+[![codepen](img/codepen.png)](https://codepen.io/naelldev)
 [![twitter](img/twitter.png)](https://www.twitter.com/naelldev)
 [![linkedin](img/linkedin.png)](https://www.linkedin.com/in/naelldev)
+[![email](img/email.png)](mailto:naelldev@gmail.com)
   
 </div>
 
