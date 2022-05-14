@@ -12,10 +12,10 @@ Olá, seja muito bem vindo ao meu perfil no Github. Aqui registro todo o meu pro
 
 
 ### ★ 𓂃 𓍢 :school_satchel: 。 study tracker.  ♡
-* **Revisando**: HTML, CSS e Javascript.
-* **Aprofundando**: Javascript.
-* **Iniciando**: Typescript.
-* **Próximos**: Node.js, Vue.js, React, SQL.
+* **Revisando**: CSS e Javascript.
+* **Aprofundando**: Javascript, Typescript.
+* **Iniciando**: Node.js, React.js.
+* **Próximos**: Vue.js, SQL.
 
 ### ★ 𓂃 𓍢 :electric_plug: 。 skills.  ♡
 <div align="left">
