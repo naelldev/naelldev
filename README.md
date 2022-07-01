@@ -17,7 +17,7 @@ Olá, seja muito bem vindo ao meu perfil no Github. Aqui registro todo o meu pro
 * **Iniciando**: Node.js, React.js.
 * **Próximos**: Vue.js, SQL.
 
-### ★ :electric_plug: : skills.
+## ★ :electric_plug: : skills.
 <div align="left">
   
 ![html](img/html.png)
